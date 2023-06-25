@@ -301,6 +301,7 @@ Mas isso não é algo que você deseja fazer com repositórios públicos.
 `git push -f`
 
 50-Como parmeira nao tem mundial
+
 `git fax -`
 
 51-como agradecer rogerio tavares
