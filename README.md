@@ -348,6 +348,6 @@ Mas isso não é algo que você deseja fazer com repositórios públicos.
 
 Você não precisa se lembrar de todos – é por isso que escrevi esta folha de dicas. 
 
-Marque esta página para referência futura ou imprima-a, se desejar.
+#Marque esta página para referência futura ou imprima-a, se desejar.
 
-\
+
