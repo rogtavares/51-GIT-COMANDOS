@@ -8,11 +8,11 @@ Git tem muitos comandos diferentes que você pode usar. E descobri que esses cin
 Sempre começo perguntando : Como configurar? ; Como verificar? ; Como armazenar ? ; Como fazer ? ;Como ver ? Como deletar ? ;
 # Como (s) ?
 
-**1-**Como verificar sua configuração do Git:
+1-Como verificar sua configuração do Git:
 O comando abaixo retorna uma lista de informações sobre a configuração do git, incluindo nome de usuário e e-mail:
 **`git config -l`**
 
-**2-**Como configurar seu nome de usuário do Git:
+2-Como configurar seu nome de usuário do Git:
 
 Com o comando abaixo você pode configurar seu nome de usuário:
 
