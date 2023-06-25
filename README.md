@@ -1,13 +1,11 @@
 # 51-GIT-COMANDOS
 
 
-Git tem muitos comandos diferentes que você pode usar. E descobri que esses cinqüenta  e um são os que uso com mais 
-
+Git tem muitos comandos diferentes que você pode usar. E descobri que esses cinqüenta e um são os que uso com mais
 frequência (e, portanto, os mais úteis para serem lembrados).
 
 
-
-Sempre começo perguntando : Como configurar? ; Como verificar? ; Como armazenar ? ; Como fazer ? ;Como ver ? Como deletar ? ;
+# Sempre começo perguntando : Como configurar? ; Como verificar? ; Como armazenar ? ; Como fazer ? ;Como ver ? Como deletar ? ;
 
 # Como (s) ?
 
