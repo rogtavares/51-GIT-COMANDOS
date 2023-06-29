@@ -9,7 +9,7 @@ frequência (e, portanto, os mais úteis para serem lembrados).
 
 # Sempre começo perguntando : 
 
-Como configurar? ; Como verificar? ; Como armazenar ? ; Como fazer ? ;Como ver ? Como deletar ? ;
+Como configurar?  Como verificar?  Como armazenar ?  Como fazer ? Como ver ? Como deletar ? 
 
 # Como (s) ?
 
