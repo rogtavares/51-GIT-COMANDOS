@@ -1,11 +1,15 @@
 # 51-GIT-COMANDOS
 
 
-Git tem muitos comandos diferentes que você pode usar. E descobri que esses cinqüenta e um são os que uso com mais
+Git tem muitos comandos diferentes que você pode usar. Que uso com mais
 frequência (e, portanto, os mais úteis para serem lembrados).
 
+# Marque esta página para referência futura ou imprima-a, se desejar.
 
-# Sempre começo perguntando : Como configurar? ; Como verificar? ; Como armazenar ? ; Como fazer ? ;Como ver ? Como deletar ? ;
+
+# Sempre começo perguntando : 
+
+Como configurar? ; Como verificar? ; Como armazenar ? ; Como fazer ? ;Como ver ? Como deletar ? ;
 
 # Como (s) ?
 
@@ -344,10 +348,9 @@ Mas isso não é algo que você deseja fazer com repositórios públicos.
 
 51-como agradecer rogerio tavares
 
-**`git obrigado por ler! A propósito, eu sou o  Rogério Tavares`**`.`
+**`git obrigado por ler até fim ! A propósito, eu sou o  Rogério Tavares`**`.`
 
 Você não precisa se lembrar de todos – é por isso que escrevi esta folha de dicas. 
 
-# Marque esta página para referência futura ou imprima-a, se desejar.
 
 
