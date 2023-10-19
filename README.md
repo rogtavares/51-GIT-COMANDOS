@@ -1,13 +1,15 @@
 # 51-GIT-COMANDOS
 
 
-Git tem muitos comandos diferentes que você pode usar. E descobri que esses cinqüenta  e um são os que uso com mais 
-
+Git tem muitos comandos diferentes que você pode usar. Que uso com mais
 frequência (e, portanto, os mais úteis para serem lembrados).
 
+# Marque esta página para referência futura ou imprima-a, se desejar.
 
 
-Sempre começo perguntando : Como configurar? ; Como verificar? ; Como armazenar ? ; Como fazer ? ;Como ver ? Como deletar ? ;
+# Sempre começo perguntando : 
+
+Como configurar?  Como verificar?  Como armazenar ?  Como fazer ? Como ver ? Como deletar ? 
 
 # Como (s) ?
 
@@ -18,13 +20,11 @@ O comando abaixo retorna uma lista de informações sobre a configuração do gi
 2-Como configurar seu nome de usuário do Git:
 
 Com o comando abaixo você pode configurar seu nome de usuário:
-
 `**git config --global user.name "ROGÉRIO TAVARES "**`
 
 3-Como configurar seu e-mail de usuário do Git:
 
 Este comando permite configurar o endereço de e-mail do usuário que você usará em seus commits.
-
 **git config --global user.email "**[**rogerio@almeidatavares.com**](mailto:rogerio@almeidatavares.com)**"**
 
 4-Como armazenar em cache suas credenciais de login no Git:
@@ -164,7 +164,6 @@ Como reverter alterações não testadas no Git:
 24-Como reverter alterações em estágios no Git:
 
 Você pode usar o sinalizador de opção -p para especificar as alterações que deseja redefinir.
-
 `git reset HEAD filename`
 
 `git reset HEAD -p`
@@ -194,7 +193,6 @@ Você pode reverter um commit antigo usando seu id de commit. Isso abre o editor
 28-Como criar um novo branch no Git:
 
 Por padrão, você tem uma ramificação, a ramificação principal. Com este comando, você pode criar uma nova ramificação. O Git não mudará para ele automaticamente – você precisará fazer isso manualmente com o próximo comando.
-
 `git branch branch\_name`
 
 29-Como mudar para um branch recém-criado no Git:
@@ -248,7 +246,6 @@ Se você quiser descartar uma mesclagem e começar de novo, execute o seguinte c
 37-Como adicionar um repositório remoto no Git
 
 Este comando adiciona um repositório remoto ao seu repositório local (basta substituir https://repo\_herepelo URL do repositório remoto).
-
 `git add remote [https://repo\_here]`(https://www.google.com/url?q=https://repo\_here\&sa=D\&source=editors\&ust=1687711630278984\&usg=AOvVaw0F2aV2GoX\_ebOIh6xcB\_5I)
 
 38-Como ver URLs remotos no Git:
@@ -280,7 +277,6 @@ Este comando fará o download das alterações de um repositório remoto, mas n�
 42-Como verificar o log de commits atual de um repositório remoto no Git
 
 Commit após commit, o Git cria um log. Você pode descobrir o log do repositório remoto usando este comando:
-
 `git log origin/main`
 
 43-Como mesclar um repositório remoto com seu repositório local no Git:
@@ -312,7 +308,6 @@ Se você não precisar mais de uma ramificação remota, poderá removê-la usan
 47-Como usar o Git rebase:
 
 Você pode transferir o trabalho concluído de uma ramificação para outra usando git rebase.
-
 `git rebase branch\_name\_here`
 
 Git Rebase pode ficar muito confuso se você não fizer isso corretamente. Antes de usar este comando, sugiro que você leia novamente a documentação oficial [https://git-scm.com/book/it/v2/Git-Branching-Rebasing](https://www.google.com/url?q=https://git-scm.com/book/it/v2/Git-Branching-Rebasing\&sa=D\&source=editors\&ust=1687711630282202\&usg=AOvVaw1CTssnwLRFyPozfV1jrfAd)
@@ -351,12 +346,12 @@ Mas isso não é algo que você deseja fazer com repositórios públicos.
 
 `git fax -`
 
-* 51-como agradecer rogerio tavares
+51-como agradecer rogerio tavares
 
-**`git obrigado por ler! A propósito, eu sou o  Rogério Tavares`**`.`
+**`git obrigado por ler até fim ! A propósito, eu sou o  Rogério Tavares`**`.`
 
 Você não precisa se lembrar de todos – é por isso que escrevi esta folha de dicas. 
 
-Marque esta página para referência futura ou imprima-a, se desejar.
 
-\
+
+![51-gits](https://github.com/rogtavares/51-GIT-COMANDOS/assets/91990479/019d293e-94fa-4d64-a3b5-7427fad4dad1)
